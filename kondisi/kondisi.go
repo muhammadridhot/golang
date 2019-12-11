@@ -16,4 +16,13 @@ func main() {
 	if c < 10 && c > 10 || c <= 10 {
 		fmt.Println("Oke")
 	}
+
+	// switch angka := 4; angka {
+	// case 0:
+	// 	fmt.Println("0")
+	// case 4:
+	// 	fmt.Println("4")
+	// default:
+	// 	fmt.Println("Default")
+	// }
 }
